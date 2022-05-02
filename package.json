@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "calculator": "ts-node ./src/calculator.ts",
-    "run:multiplier": "ts-node multiplier.ts", 
+    "multiplier": "ts-node ./src/multiplier.ts", 
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
