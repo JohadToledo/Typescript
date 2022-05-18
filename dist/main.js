@@ -7,3 +7,7 @@ var ContractStatus;
 })(ContractStatus || (ContractStatus = {}));
 const pepe = ContractStatus.Apprentice;
 console.log(pepe);
+const person = {
+    employeeID: 1234,
+    age: 2
+};
